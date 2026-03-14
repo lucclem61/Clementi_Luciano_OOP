@@ -1,4 +1,4 @@
-# OOP Instrument Project
+# OOP Assignment
 
 A simple demonstration of Object Oriented Programming principles using PHP.
 
